@@ -16,7 +16,7 @@ primeramente debes instalar las dependencias
 luego puedes ejecutar las pruebas
 
 ```bash
-  npm test
+  npm run test
 ```
 
 el page object model se encuentran en la carpeta
